@@ -1,26 +1,23 @@
-# SHAPEAI WEB DEV WITH BOOTSTRAP BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+# webxspark
+Hi We are giving many more articile <b> webxspark
 </b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
-learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbumsiEeX4lkDw5D_NZ1WVEy3"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL.png"> </a>
-<br>I got to have hands on experience on:
-<li>HTML
-<li>CSS
-<li>BOOTSTRAP
-<br>during these 7 days, and everything was explained from the very basics so that
-anyone with zero experience on programming can learn.
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-www.shapeai.tech
+The  Mr.Alan christoper (founder of webxspark). I got to
+learn a lot explanation with webxspark articile and it was an amazing experience learning with webxspark.
+<br><br>Here's the link for you to watch the our channel<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbumsiEeX4lkDw5D_NZ1WVEy3"> <img src="Webxspark_logo_A4.png" style="width: 250px;"> </a>
+
+
+
+<br>we are giving a beautifull 8d song on our youtube channel click image to view, visit:<a href="">
+webxspark</a>
 or follow SHAPEAI on:
 <li><a href=
-"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+"#">LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+"https://www.instagram.com/webxspark/">Instagram</a>
 <li><a
 href=
-"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+"https://www.youtube.com/channel/UCkFKKjMyRu1yC8_AknH0qzg">YouTu
 be</a>
 <li><a href=
-"https://github.com/shapeai">GitHub</a>
+"https://github.com/webxspark">GitHub</a>
